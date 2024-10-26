@@ -1,2 +1,4 @@
-# Pattern \n
-1. Square Pattern
+# Pattern 
+1. Square Pattern\n
+2. Rectangle Pattern\
+3. 
